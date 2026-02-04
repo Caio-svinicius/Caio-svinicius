@@ -1,8 +1,8 @@
 # Hello everyone!! 🖖🏽
-I'm Caio Vinicius Steinbach, 27 years old Eletrical Engineer switching carrers to React front-end Developer.
+I'm Caio Vinicius Steinbach, 29 years old Eletrical Engineer switching carrers to React front-end Developer.
 
 -😊Pronouns: He/Him.<br/>
--⚡Monitoring Analyst at ODATA datacenter.<br/>
+-⚡Electrical Technician at ODATA datacenter.<br/>
 -📚Currently learning javascript/React front-end development.<br/>
 -🖖🏽I love games, anime and movies 🤣.
 
